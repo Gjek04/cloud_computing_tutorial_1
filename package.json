@@ -1,0 +1,23 @@
+{
+  "name": "cloud_comp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gjek04/cloud_computing_tutorial_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gjek04/cloud_computing_tutorial_1/issues"
+  },
+  "homepage": "https://github.com/Gjek04/cloud_computing_tutorial_1#readme",
+  "description": "",
+  "dependencies": {
+    "supabase": "^2.67.2"
+  }
+}
