@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Gjek04/cloud_computing_tutorial_1#readme",
   "description": "",
   "dependencies": {
+    "@supabase/supabase-js": "^2.88.0",
     "supabase": "^2.67.2"
   }
 }
